@@ -27,7 +27,6 @@ Funcionalidades planejadas:
 - Adicionar opções
 - Escolher uma opção aleatoriamente
 - Interface simples e intuitiva
-- Possível animação de escolha
 
 🚧 Projeto em desenvolvimento.
 
