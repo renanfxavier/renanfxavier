@@ -18,18 +18,6 @@ Estou construindo projetos para aprimorar minhas habilidades em desenvolvimento 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanfxavier&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 💻 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanfxavier&layout=compact&theme=tokyonight)
-
----
-
 ## 📂 Projetos em desenvolvimento
 
 🔹 **Decide Aí**  
